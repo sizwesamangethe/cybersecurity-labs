@@ -3,6 +3,8 @@ This repository documents my hands-on cybersecurity learning and practical lab e
 
 I'm using these labs to improve my theory in cybersecurity and develop more practical hands-on experience skillsset in becoming a cybersecurity analyst.
 
+I'll also use these pathways to improve my understanding of cybersecurity, develop practical skills and gain more experience through hands-on experiences. 
+
 # Areas I'm Focusing On
 
 - Cybersecurity Fundamentals
@@ -13,6 +15,16 @@ I'm using these labs to improve my theory in cybersecurity and develop more prac
 - Incident Response
 - Security Monitoring and Log Analysis
 - IT fundamentals (Hardware, Cloud, DevOps, Networking, Security, Databases, DNS, Git, Linux)
+
+
+# Immersive Labs Pathways
+
+The three pathways i'm working through are: 
+
+- Cyber fundamentals career path: cybersecurity fundamentals
+- Defensive Security Operations: defensive security and security operations
+- Human Connection Challenge: human factors in cybersecurity 
+
 
 # Labs and Learning 
 
